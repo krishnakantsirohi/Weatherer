@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="temp_min10">10dp</dimen>
+    <dimen name="temp20">20dp</dimen>
+    <dimen name="temp25">25dp</dimen>
+    <dimen name="temp1">1</dimen>
+    <dimen name="temp80">80dp</dimen>
+</resources>
